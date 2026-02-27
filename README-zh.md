@@ -15,7 +15,7 @@
 <a href="#-快速开始">
   <img alt="Quickstart" src="https://img.shields.io/badge/🚀-快速开始-2F80ED?style=for-the-badge" />
 </a>
-<a href="docs/">
+<a href="https://OpenDCAI.github.io/DataFlow-Doc/">
   <img alt="Docs" src="https://img.shields.io/badge/📚-文档-2D9CDB?style=for-the-badge" />
 </a>
 <a href="docs/contributing.md">
@@ -214,12 +214,19 @@ PY
 
 ---
 
-## 文档（MkDocs）
-启动本地文档站点：
+## 文档
+### 线上文档（功能速览）
+快速了解 DataFlow Agent 平台的 5 个核心功能模块，可直接访问：  
+[DataFlow Agent 官方文档](https://OpenDCAI.github.io/DataFlow-Doc/)
+
+### 开发文档（本地开发）
+若需了解DataFlow Agent 设计架构或基于 DataFlow Agent 进行本地开发（如开发自定义 `workflow`、`agent` 等），可启动本地文档站点查看开发指南：
 ```bash
 mkdocs serve
 ```
-配置文件：`mkdocs.yml`
+本地访问地址：`http://127.0.0.1:8000/`
+
+文档配置文件：`mkdocs.yml`
 
 ---
 
