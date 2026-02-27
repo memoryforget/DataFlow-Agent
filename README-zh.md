@@ -216,7 +216,7 @@ PY
 
 ## 文档
 ### 线上文档（功能速览）
-快速了解 DataFlow Agent 平台的 5 个核心功能模块，可直接访问：  
+快速了解 DataFlow Agent 平台的核心功能模块，可直接访问：  
 [DataFlow Agent 官方文档](https://OpenDCAI.github.io/DataFlow-Doc/)
 
 ### 开发文档（本地开发）

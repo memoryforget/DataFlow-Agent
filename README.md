@@ -215,7 +215,7 @@ PY
 
 ## Documentation
 ### Online Documentation (Feature Overview)
-Quickly learn about the 5 core feature modules of the DataFlow Agent platform by visiting:
+Quickly learn about the core feature modules of the DataFlow Agent platform by visiting:
 [DataFlow Agent Official Documentation](https://OpenDCAI.github.io/DataFlow-Doc/)
 
 ### Development Documentation (Local Development)
