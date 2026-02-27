@@ -15,7 +15,7 @@
 <a href="#-quickstart">
   <img alt="Quickstart" src="https://img.shields.io/badge/🚀-Quickstart-2F80ED?style=for-the-badge" />
 </a>
-<a href="docs/">
+<a href="https://OpenDCAI.github.io/DataFlow-Doc/">
   <img alt="Docs" src="https://img.shields.io/badge/📚-Docs-2D9CDB?style=for-the-badge" />
 </a>
 <a href="docs/contributing.md">
@@ -213,12 +213,19 @@ PY
 
 ---
 
-## Docs (MkDocs)
-Start the local documentation site:
+## Documentation
+### Online Documentation (Feature Overview)
+Quickly learn about the 5 core feature modules of the DataFlow Agent platform by visiting:
+[DataFlow Agent Official Documentation](https://OpenDCAI.github.io/DataFlow-Doc/)
+
+### Development Documentation (Local Development)
+To learn about the DataFlow Agent design architecture or conduct local development based on DataFlow Agent (e.g., developing custom `workflow`, `agent`, etc.), launch the local documentation site to view development guidelines:
 ```bash
 mkdocs serve
 ```
-Configuration File: `mkdocs.yml`
+Local Access Address: `http://127.0.0.1:8000/`
+
+Documentation Configuration File: `mkdocs.yml`
 
 ---
 
